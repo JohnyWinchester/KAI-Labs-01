@@ -1,0 +1,4 @@
+﻿  MatveevAndrewLabs02 - 02.cpp
+E:\КАИ\Основы Проги\MatveewAndrewLabs\MatveevAndrewLabs02 - 02\MatveevAndrewLabs02 - 02.cpp(18,18): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+E:\КАИ\Основы Проги\MatveewAndrewLabs\MatveevAndrewLabs02 - 02\MatveevAndrewLabs02 - 02.cpp(26,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MatveevAndrewLabs02 - 02.vcxproj -> E:\КАИ\Основы Проги\MatveewAndrewLabs\x64\Debug\MatveevAndrewLabs02 - 02.exe

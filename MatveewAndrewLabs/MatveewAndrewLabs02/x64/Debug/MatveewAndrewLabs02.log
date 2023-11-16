@@ -1,0 +1,4 @@
+﻿E:\Visual Studio 22\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (MatveewAndrewLabs02.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MatveewAndrewLabs02.cpp
+E:\КАИ\Основы Проги\MatveewAndrewLabs\MatveewAndrewLabs02\MatveewAndrewLabs02.cpp(27,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MatveewAndrewLabs02.vcxproj -> E:\КАИ\Основы Проги\MatveewAndrewLabs\x64\Debug\MatveewAndrewLabs02 - 01.exe
